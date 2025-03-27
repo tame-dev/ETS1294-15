@@ -72,3 +72,18 @@
 
 - This method is a string method, used for splitting a string into a list of substrings based on a specified delimiter. It is used like:
 - - String.split(delimiter)
+
+# join
+
+- This method is a string method, used for joining elements of an iterable (e.g., list, tuple) into a single string, with a specified string as the separator. It is used like:
+- - String.join(iterable)
+
+# isalpha
+
+- This method is a string method, used for checking if all characters in a string are alphabetic. It returns `True` if all characters are alphabetic, otherwise `False`. It is used like:
+- - String.isalpha()
+
+# isdigit
+
+- This method is a string method, used for checking if all characters in a string are digits. It returns `True` if all characters are digits, otherwise `False`. It is used like:
+- - String.isdigit()
