@@ -1,0 +1,14 @@
+name = "Tamirat"
+age = 22
+
+# Basic usage
+print("My name is {} and I am {} years old.".format(name, age))
+# Output: My name is Alice and I am 30 years old.
+
+# Using index numbers
+print("My name is {0} and {0} is awesome.".format(name))
+# Output: My name is Alice and Alice is awesome.
+
+# Named placeholders
+print("Name: {n}, Age: {a}".format(n=name, a=age))
+# Output: Name: Tamirat, Age: 22
