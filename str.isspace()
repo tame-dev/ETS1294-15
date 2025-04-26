@@ -1,0 +1,7 @@
+text1 = "   "
+text2 = "\t\n"
+text3 = "Hello World"
+
+print(text1.isspace())  # True
+print(text2.isspace())  # True
+print(text3.isspace())  # False
