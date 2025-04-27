@@ -1,0 +1,5 @@
+my_list = [1, 2, 3, 4]
+print(len(my_list))  # Output: 4
+
+my_string = "hello"
+print(len(my_string))  # Output: 5
