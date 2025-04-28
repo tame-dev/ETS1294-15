@@ -1,0 +1,7 @@
+text1 = "HELLO WORLD"
+text2 = "Hello World"
+text3 = "123@#"
+
+print(text1.isupper())  # True (all letters are uppercase)
+print(text2.isupper())  # False (has lowercase 'e', 'l', etc.)
+print(text3.isupper())  # False (no letters at all)
